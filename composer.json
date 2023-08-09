@@ -3,7 +3,6 @@
     "description": "Google Analytics Admin Client for PHP",
     "license": "Apache-2.0",
     "minimum-stability": "stable",
-    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Google\\Analytics\\Admin\\": "src",
